@@ -1,0 +1,23 @@
+modern-glass-website
+├── src
+│   ├── assets
+│   │   ├── fonts
+│   │   └── styles
+│   │       ├── main.css
+│   │       └── variables.css
+│   ├── components
+│   │   ├── Header.js
+│   │   ├── Sidebar.js
+│   │   └── ContentArea.js
+│   ├── layouts
+│   │   └── TwoColumn.js
+│   ├── pages
+│   │   ├── Home.js
+│   │   └── About.js
+│   └── utils
+│       └── glassmorphism.js
+├── public
+│   └── index.html
+├── package.json
+├── .gitignore
+└── README.md
